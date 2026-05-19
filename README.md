@@ -29,5 +29,3 @@ Ops     →  Linux · Docker · Nginx · Systemd
 - 🌐 Portfolio — [sidia.net](https://sidia.net)
 - 💼 LinkedIn — [marvin-fischer](https://linkedin.com/in/marvin-fischer)
 - ✉️ Email — marvin@sidia.net
-
-<sub>Most of my interesting work lives in private repos under this org (game projects, freelance work, community infra). The public repos are smaller experiments and tools.</sub>
